@@ -50,7 +50,7 @@ potentially leading to course failure or dismissal from KSE.
 
 1. **[Working Environment Preparation](https://classroom.github.com/a/3WwndEVP):** Setting up Python and IDE.
 2. **[Variables, Operations, and Loops](https://classroom.github.com/a/e_RNUR53):** Basic Python syntax and logic.
-3. **Collections and Loops:** Python data structures and control flow.
+3. **[Collections and Loops](https://classroom.github.com/a/gife07KY):** Python data structures and control flow.
 4. **Functions and Modules:** Refactoring and code organization.
 5. **Numeral Systems:** Understanding and converting numeral systems.
 6. **Tic-Tac-Toe:** Classic game development for programming practice.
